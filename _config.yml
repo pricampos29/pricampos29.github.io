@@ -1,6 +1,7 @@
-title: [Priscila Campos]
-description: [👋🏼¡Hola! Aquí encontrarás proyectos de Análisis de Datos pensados para transformar información en decisiones con impacto. 🚀📈]
+title: Priscila Campos
+description: Nutricionista y Analista de Datos | Python • SQL • Tableau | Visualización de datos | Datos para decisiones estratégicas🚀📈
 logo: /images/perfil.png
 remote_theme: pages-themes/minimal@v0.2.0
+show_downloads: true
 plugins:
 - jekyll-remote-theme 
