@@ -1,7 +1,7 @@
 title: Priscila Campos
 description: Nutricionista y Analista de Datos | Python • SQL • Tableau | Visualización de datos | Datos para decisiones estratégicas🚀📈
-logo: /images/perfil.png
+logo: images/Perfil.jpeg
 remote_theme: pages-themes/minimal@v0.2.0
-show_downloads: true
+show_downloads: false
 plugins:
 - jekyll-remote-theme 
