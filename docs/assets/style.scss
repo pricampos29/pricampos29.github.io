@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img[src*="Perfil.jpeg"] {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
