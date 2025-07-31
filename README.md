@@ -22,17 +22,29 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
 
 ## 📁Proyectos
 ### 📚Análisis del mercado editorial en tiempos de pandemia - SQL
--Este proyecto explora el comportamiento de los usuarios/as de una startup enfocada en libros, basada en una base de datos relacionada con información sobre obras, editoriales, autores/as, calificaciones y reseñas. El objetivo es generar insights que aporten valor a una propuesta de producto digital post-pandemia.
+-Se exploró el comportamiento de los usuarios/as de una startup enfocada en libros, basada en una base de datos relacionada con información sobre obras, editoriales, autores/as, calificaciones y reseñas. El objetivo fue generar insights que aporten valor a una propuesta de producto digital post-pandemia.
+
+-Conclusiones: hay un mercado activo en contenido moderno, los usuarios confían en la opiniones y reseñas con puntuaciones de la comunidad, la editorial Penguin Books domina el mercado de libros extensos y ciertos escritores pueden impulsar el éxito de un libro. 
+
+-Recomendaciones: publicar un nuevo producto enfocado en libros recientes y mejor calificados, incentivar la participación de la comunidad, y colaborar con editoriales reconocidas y autores exitosos. 
 
 -Tecnologías: SQL 
 
 ### 📊Embudo de conversión y test A/A/B
--Este proyecto analiza el comportamiento de usuarios/as en una aplicación de una empresa emergente que comercializa productos alimenticios. El objetivo es estudiar el embudo de conversión, identificar puntos de fuga en el proceso de compra y evaluar un test A/A/B relacionado con un rediseño tipográfico de la interfaz.
+-Se analizó el comportamiento de usuarios/as en una aplicación de una empresa emergente que comercializa productos alimenticios. El objetivo fue estudiar el embudo de conversión, identificar puntos de fuga en el proceso de compra y evaluar un test A/A/B relacionado con un rediseño tipográfico de la interfaz. 
+
+-Conclusiones: el análisis del embudo mostró que la mayor pérdida de usuarios ocurrió en la transición de la pantalla principal al carrito, sin embargo, el proceso de compra desde el carrito hasta el pago fue muy eficiente. Por otra parte, el comportamiento de ambos grupos fue uniforme y, gracias a pruebas estadísticas, se pudo determinar que no había evidencia suficiente para considerar que las fuentes alteradas afectaran negativamente la interacción de los usuarios. 
+
+-Recomendaciones: se recomendó a gerencia avanzar con el cambio en el diseño. 
 
 -Tecnologías: Python, pandas, matplotlib, scipy 
 
 ### 📞Identificación de Operadores Ineficaces en Telecomunicaciones
--Este análisis se enfoca en detectar operadores ineficaces dentro del servicio de telefonía virtual CallMeMaybe, utilizando datos de llamadas entrantes, salientes e internas. Se consideran ineficaces aquellos operadores con un alto número de llamadas perdidas, tiempos de espera prolongados y, en algunos casos, bajo volumen de llamadas salientes.
+-Este análisis se enfocó en detectar operadores ineficaces dentro del servicio de telefonía virtual CallMeMaybe, utilizando datos de llamadas entrantes, salientes e internas. Se consideraron ineficaces aquellos operadores con un alto número de llamadas perdidas, tiempos de espera prolongados y, en algunos casos, bajo volumen de llamadas salientes.
+
+-Conclusiones: los operadores con más llamadas perdidas tuvieron tiempos de espera significativamente mayores, existe una relación entre el tipo de llamada (interna/externa) y la tasa de abandono, los clientes con mayor frecuencia de pagos muestran una mayor cantidad de llamadas perdidas. 
+
+-Recomendaciones: implementar medidas para reducir tiempos de espera en operadores con alto abandono y/o asignar recursos adicionales a operadores con sobrecarga de llamadas, crear incentivos para clientes con baja interacción en servicios adicionales y/o ajustar tarifas y estrategias de retención para clientes con baja satisfacción y mejorar la gestión de llamadas internas para reducir el abandono y/o rediseñar flujos de atención en operadores con bajo desempeño.
 
 -Tecnologías: Python, pandas, scipy, seaborn
 
