@@ -5,38 +5,20 @@ Soy Licenciada en Nutrición, certificada en análisis de datos para mejorar pro
 Me entusiasma traducir información compleja en hallazgos claros y accionables. Busco oportunidades donde pueda integrar mis habilidades técnicas con mi experiencia en el sector salud para generar soluciones que impacten positivamente en las personas y los procesos.
 
 ## 🛠️ Tecnologías y herramientas 
-Python, SQL y Tableau. 
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; font-family: sans-serif;">
 
-
-##  Tecnologías y herramientas
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-  <div style="background-color: #f0f8ff; border-radius: 8px; padding: 15px; width: 220px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h4 style="text-align: center;">Habilidades Blandas</h4>
-    <ul style="padding-left: 20px;">
-      <li>Análisis de datos</li>
-      <li>Resolución de problemas</li>
-      <li>Comunicación efectiva</li>
-      <li>Trabajo en equipo</li>
-      <li>Orientación a resultados</li>
-      <li>Organización</li>
-      <li>Proactividad</li>
-      <li>Atención al detalle</li>
-      <li>Optimización de procesos</li>
-    </ul>
-  </div>
-
-  <div style="display: flex; flex-direction: column; justify-content: center; gap: 10px; margin-top: 10px;">
-    <a href="https://www.linkedin.com/in/tuusuario" target="_blank" style="text-decoration: none;">
-      <button style="background-color: #0077b5; color: white; border: none; padding: 10px 20px; border-radius: 5px;">LINKEDIN</button>
-    </a>
-    <a href="mailto:tuemail@outlook.com" style="text-decoration: none;">
-      <button style="background-color: #0078d4; color: white; border: none; padding: 10px 20px; border-radius: 5px;">MICROSOFT OUTLOOK</button>
-    </a>
-  </div>
+  <div style="background-color: #ffe4e1; border-radius: 10px; padding: 15px; width: 120px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">Python</div>
+  <div style="background-color: #e6f7ff; border-radius: 10px; padding: 15px; width: 120px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">SQL</div>
+  <div style="background-color: #f0fff0; border-radius: 10px; padding: 15px; width: 120px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">Tableau</div>
+  <div style="background-color: #fffacd; border-radius: 10px; padding: 15px; width: 120px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">Excel</div>
+  <div style="background-color: #e0ffff; border-radius: 10px; padding: 15px; width: 120px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">Pandas</div>
+  <div style="background-color: #fafad2; border-radius: 10px; padding: 15px; width: 120px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">Jupyter</div>
+  <div style="background-color: #f5f5dc; border-radius: 10px; padding: 15px; width: 120px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">NumPy</div>
+  <div style="background-color: #ffe4b5; border-radius: 10px; padding: 15px; width: 120px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">Matplotlib</div>
+  <div style="background-color: #d8bfd8; border-radius: 10px; padding: 15px; width: 120px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">Plotly</div>
 
 </div>
+
 
 ## 📁Proyectos
 ### 📚Análisis del mercado editorial en tiempos de pandemia - SQL
