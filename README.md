@@ -50,8 +50,7 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
     <p><strong>Recomendaciones:</strong> implementar medidas para reducir tiempos de espera en operadores con alto abandono y/o asignar recursos adicionales a operadores con sobrecarga de llamadas, crear incentivos para clientes con baja interacción en servicios adicionales y/o ajustar tarifas y estrategias de retención para clientes con baja satisfacción y mejorar la gestión de llamadas internas para reducir el abandono y/o rediseñar flujos de atención en operadores con bajo desempeño.</p>
     <p><strong>Tecnología:</strong> Python, pandas, scipy, seaborn </p>
     </div>
-    </div>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; font-family: sans-serif;">
+</div>
 
 ## 🌟Experiencia
 ### Experiencia técnica | TripleTen | 2024-2025
