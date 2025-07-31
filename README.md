@@ -31,6 +31,7 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
     <p><strong>Tecnología:</strong> SQL</p>
   </div>
 </div>
+<div style="width: 320px; background-color: #f0f8ff; border-radius: 10px; padding: 15px; margin-bottom: 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; font-family: sans-serif;">
 
@@ -43,6 +44,8 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
     <p><strong>Tecnología:</strong> Python, pandas, matplotlib, scipy </p>
   </div>
 </div>
+
+<div style="width: 320px; background-color: #f0f8ff; border-radius: 10px; padding: 15px; margin-bottom: 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; font-family: sans-serif;">
 
