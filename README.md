@@ -7,17 +7,17 @@
 🔍 Me entusiasma traducir información compleja en hallazgos claros y accionables, integrando la lógica de programación con la comprensión del comportamiento humano. He desarrollado proyectos que conectan con el mundo del análisis de datos.
 
 ## 📁Proyectos
-###📚Proyecto 1: Análisis del mercado editorial en tiempos de pandemia - SQL
+### 📚Proyecto 1: Análisis del mercado editorial en tiempos de pandemia - SQL
 -Este proyecto explora el comportamiento de los usuarios/as de una startup enfocada en libros, basada en una base de datos relacionada con información sobre obras, editoriales, autores/as, calificaciones y reseñas. El objetivo es generar insights que aporten valor a una propuesta de producto digital post-pandemia.
 -Tecnologías: SQL 
 -Link
 
-###📊Proyecto 2: Embudo de conversión y test A/A/B
+### 📊Proyecto 2: Embudo de conversión y test A/A/B
 -Este proyecto analiza el comportamiento de usuarios/as en una aplicación de una empresa emergente que comercializa productos alimenticios. El objetivo es estudiar el embudo de conversión, identificar puntos de fuga en el proceso de compra y evaluar un test A/A/B relacionado con un rediseño tipográfico de la interfaz.
 -Tecnologías: Python, pandas, matplotlib, scipy 
 -Link
 
-###📞Proyecto 3: Identificación de Operadores Ineficaces en Telecomunicaciones
+### 📞Proyecto 3: Identificación de Operadores Ineficaces en Telecomunicaciones
 -Este análisis se enfoca en detectar operadores ineficaces dentro del servicio de telefonía virtual CallMeMaybe, utilizando datos de llamadas entrantes, salientes e internas. Se consideran ineficaces aquellos operadores con un alto número de llamadas perdidas, tiempos de espera prolongados y, en algunos casos, bajo volumen de llamadas salientes.
 -Tecnologías: Python, pandas, scipy, seaborn
 -Link
