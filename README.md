@@ -16,7 +16,6 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
   <div style="background-color: #f5f5dc; border-radius: 10px; padding: 15px; width: 120px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">NumPy</div>
   <div style="background-color: #ffe4b5; border-radius: 10px; padding: 15px; width: 120px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">Matplotlib</div>
   <div style="background-color: #d8bfd8; border-radius: 10px; padding: 15px; width: 120px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">Plotly</div>
-
 </div>
 
 
