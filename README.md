@@ -52,8 +52,9 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
     <img src="docs/assets/Telecomunicaciones.png" alt="Resultados de prueba A/B" style="width:100%; border-radius: 8px; margin: 12px 0;">
     <p><strong>Conclusiones:</strong> los operadores con más llamadas perdidas tuvieron tiempos de espera significativamente mayores, existe una relación entre el tipo de llamada (interna/externa) y la tasa de abandono, los clientes con mayor frecuencia de pagos muestran una mayor cantidad de llamadas perdidas. </p>
     <p><strong>Recomendaciones:</strong> implementar medidas para reducir tiempos de espera en operadores con alto abandono y/o asignar recursos adicionales a operadores con sobrecarga de llamadas, crear incentivos para clientes con baja interacción en servicios adicionales y/o ajustar tarifas y estrategias de retención para clientes con baja satisfacción y mejorar la gestión de llamadas internas para reducir el abandono y/o rediseñar flujos de atención en operadores con bajo desempeño.</p>
-    <p><strong>Tecnología:</strong> Python, pandas, scipy, seaborn </p>
- </div>
+     <p><strong>Tecnología:</strong> Python, pandas, scipy, seaborn </p>
+  </div>
+</div> 
 
 ## 📚 Educación
 
