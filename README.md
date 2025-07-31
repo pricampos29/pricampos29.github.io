@@ -21,17 +21,6 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
 
 
 ## 📁Proyectos
-### 📚Análisis del mercado editorial en tiempos de pandemia - SQL
--Se exploró el comportamiento de los usuarios/as de una startup enfocada en libros, basada en una base de datos relacionada con información sobre obras, editoriales, autores/as, calificaciones y reseñas. El objetivo fue generar insights que aporten valor a una propuesta de producto digital post-pandemia.
-
--Conclusiones: hay un mercado activo en contenido moderno, los usuarios confían en la opiniones y reseñas con puntuaciones de la comunidad, la editorial Penguin Books domina el mercado de libros extensos y ciertos escritores pueden impulsar el éxito de un libro. 
-
--Recomendaciones: publicar un nuevo producto enfocado en libros recientes y mejor calificados, incentivar la participación de la comunidad, y colaborar con editoriales reconocidas y autores exitosos. 
-
--Tecnologías: SQL 
-
-
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; font-family: sans-serif;">
 
   <div style="width: 320px; background-color: #f0f8ff; border-radius: 10px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -42,14 +31,15 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
     <p><strong>Tecnología:</strong> SQL</p>
   </div>
 
-### 📊Embudo de conversión y test A/A/B
--Se analizó el comportamiento de usuarios/as en una aplicación de una empresa emergente que comercializa productos alimenticios. El objetivo fue estudiar el embudo de conversión, identificar puntos de fuga en el proceso de compra y evaluar un test A/A/B relacionado con un rediseño tipográfico de la interfaz. 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; font-family: sans-serif;">
 
--Conclusiones: el análisis del embudo mostró que la mayor pérdida de usuarios ocurrió en la transición de la pantalla principal al carrito, sin embargo, el proceso de compra desde el carrito hasta el pago fue muy eficiente. Por otra parte, el comportamiento de ambos grupos fue uniforme y, gracias a pruebas estadísticas, se pudo determinar que no había evidencia suficiente para considerar que las fuentes alteradas afectaran negativamente la interacción de los usuarios. 
-
--Recomendaciones: se recomendó a gerencia avanzar con el cambio en el diseño. 
-
--Tecnologías: Python, pandas, matplotlib, scipy 
+  <div style="width: 320px; background-color: #f0f8ff; border-radius: 10px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">📚 📊Embudo de conversión y test A/A/B </h3>
+    <p><strong>Objetivo:</strong> Se analizó el comportamiento de usuarios/as en una aplicación de una empresa emergente que comercializa productos alimenticios. El objetivo fue estudiar el embudo de conversión, identificar puntos de fuga en el proceso de compra y evaluar un test A/A/B relacionado con un rediseño tipográfico de la interfaz. </p>
+    <p><strong>Conclusiones:</strong> el análisis del embudo mostró que la mayor pérdida de usuarios ocurrió en la transición de la pantalla principal al carrito, sin embargo, el proceso de compra desde el carrito hasta el pago fue muy eficiente. Por otra parte, el comportamiento de ambos grupos fue uniforme y, gracias a pruebas estadísticas, se pudo determinar que no había evidencia suficiente para considerar que las fuentes alteradas afectaran negativamente la interacción de los usuarios. </p>
+    <p><strong>Recomendaciones:</strong> se recomendó a gerencia avanzar con el cambio en el diseño. </p>
+    <p><strong>Tecnología:</strong> Python, pandas, matplotlib, scipy </p>
+  </div>
 
 ### 📞Identificación de Operadores Ineficaces en Telecomunicaciones
 -Este análisis se enfocó en detectar operadores ineficaces dentro del servicio de telefonía virtual CallMeMaybe, utilizando datos de llamadas entrantes, salientes e internas. Se consideraron ineficaces aquellos operadores con un alto número de llamadas perdidas, tiempos de espera prolongados y, en algunos casos, bajo volumen de llamadas salientes.
