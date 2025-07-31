@@ -53,17 +53,19 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
     <p><strong>Conclusiones:</strong> los operadores con más llamadas perdidas tuvieron tiempos de espera significativamente mayores, existe una relación entre el tipo de llamada (interna/externa) y la tasa de abandono, los clientes con mayor frecuencia de pagos muestran una mayor cantidad de llamadas perdidas. </p>
     <p><strong>Recomendaciones:</strong> implementar medidas para reducir tiempos de espera en operadores con alto abandono y/o asignar recursos adicionales a operadores con sobrecarga de llamadas, crear incentivos para clientes con baja interacción en servicios adicionales y/o ajustar tarifas y estrategias de retención para clientes con baja satisfacción y mejorar la gestión de llamadas internas para reducir el abandono y/o rediseñar flujos de atención en operadores con bajo desempeño.</p>
     <p><strong>Tecnología:</strong> Python, pandas, scipy, seaborn </p>
-  </ul>
 </div>
 
 ## 📚 Educación
+
 - **Análisis de Datos** | TripleTen | 2024–2025  
 - **Licenciatura en Nutrición** | Universidad de Costa Rica | 2014–2023  
 
 ## 🗣️ Idiomas
+
 - Español nativo  
 - Inglés avanzado (B2)  
 
 ## 📫 ¿Hablamos?
+
 - 💌 **Mail:** [pricam29@gmail.com](mailto:pricam29@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/priscila-campos-gonzalez](https://linkedin.com/in/priscila-campos-gonzalez)
