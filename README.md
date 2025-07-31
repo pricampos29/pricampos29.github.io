@@ -53,37 +53,17 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
     <p><strong>Conclusiones:</strong> los operadores con más llamadas perdidas tuvieron tiempos de espera significativamente mayores, existe una relación entre el tipo de llamada (interna/externa) y la tasa de abandono, los clientes con mayor frecuencia de pagos muestran una mayor cantidad de llamadas perdidas. </p>
     <p><strong>Recomendaciones:</strong> implementar medidas para reducir tiempos de espera en operadores con alto abandono y/o asignar recursos adicionales a operadores con sobrecarga de llamadas, crear incentivos para clientes con baja interacción en servicios adicionales y/o ajustar tarifas y estrategias de retención para clientes con baja satisfacción y mejorar la gestión de llamadas internas para reducir el abandono y/o rediseñar flujos de atención en operadores con bajo desempeño.</p>
     <p><strong>Tecnología:</strong> Python, pandas, scipy, seaborn </p>
-</div>
-
-<div style="width: 320px; background-color: #fffaf0; border-radius: 10px; padding: 15px; margin: 30px auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1); font-family: sans-serif;">
-  <h3 style="margin-top: 0;">🌟 Experiencia técnica – TripleTen (2024–2025)</h3>
-  <ul style="padding-left: 20px;">
-    <li>Análisis exploratorio, estadístico y predictivo con Python y SQL</li>
-    <li>Modelado de embudos de conversión y visualización de KPIs</li>
-    <li>Dashboards interactivos y pruebas A/A/B</li>
-    <li>Limpieza y transformación de datos reales en Jupyter</li>
   </ul>
 </div>
 
-<div style="width: 320px; background-color: #f0faff; border-radius: 10px; padding: 15px; margin: 30px auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1); font-family: sans-serif;">
-  <h3 style="margin-top: 0;">📚 Educación</h3>
-  <ul style="padding-left: 20px;">
-    <li>Análisis de Datos – TripleTen (2024–2025)</li>
-    <li>Licenciatura en Nutrición – Universidad de Costa Rica (2014–2023)</li>
-  </ul>
-</div>
+## 📚 Educación
+- **Análisis de Datos** | TripleTen | 2024–2025  
+- **Licenciatura en Nutrición** | Universidad de Costa Rica | 2014–2023  
 
+## 🗣️ Idiomas
+- Español nativo  
+- Inglés avanzado (B2)  
 
-<div style="width: 320px; background-color: #fff0f5; border-radius: 10px; padding: 15px; margin: 30px auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1); font-family: sans-serif;">
-  <h3 style="margin-top: 0;">🗣️ Idiomas</h3>
-  <ul style="padding-left: 20px;">
-    <li>Español nativo</li>
-    <li>Inglés avanzado (B2)</li>
-  </ul>
-</div>
-
-<div style="width: 320px; background-color: #f5fff0; border-radius: 10px; padding: 15px; margin: 30px auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1); font-family: sans-serif;">
-  <h3 style="margin-top: 0;">📫 ¿Hablamos?</h3>
-  <p style="margin: 5px 0;">💌 <strong>Mail:</strong> <a href="mailto:pricam29@gmail.com">pricam29@gmail.com</a></p>
-  <p style="margin: 5px 0;">💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/priscila-campos-gonzalez" target="_blank">linkedin.com/in/priscila-campos-gonzalez</a></p>
-</div>
+## 📫 ¿Hablamos?
+- 💌 **Mail:** [pricam29@gmail.com](mailto:pricam29@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/priscila-campos-gonzalez](https://linkedin.com/in/priscila-campos-gonzalez)
