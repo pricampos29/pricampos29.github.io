@@ -20,6 +20,8 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
 </div>
 
 
+
+
 ## 📁Proyectos
 ### 📚Análisis del mercado editorial en tiempos de pandemia - SQL
 -Este proyecto explora el comportamiento de los usuarios/as de una startup enfocada en libros, basada en una base de datos relacionada con información sobre obras, editoriales, autores/as, calificaciones y reseñas. El objetivo es generar insights que aporten valor a una propuesta de producto digital post-pandemia.
