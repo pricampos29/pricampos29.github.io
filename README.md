@@ -65,20 +65,25 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
   </ul>
 </div>
 
-## 📚Educación
--Análisis de Datos | TripleTen | 2024-2025
-
--Licenciatura en Nutrición | Universidad de Costa Rica | 2014-2023
-
-
-## 🗣️Idiomas
--Español nativo
-
--Inglés avanzado B2
-
-## 📫¿Hablamos?
-💌 Mail: pricam29@gmail.com
-
-💼 LinkedIn: linkedin.com/in/priscila-campos-gonzalez
+<div style="width: 320px; background-color: #f0faff; border-radius: 10px; padding: 15px; margin: 30px auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1); font-family: sans-serif;">
+  <h3 style="margin-top: 0;">📚 Educación</h3>
+  <ul style="padding-left: 20px;">
+    <li>Análisis de Datos – TripleTen (2024–2025)</li>
+    <li>Licenciatura en Nutrición – Universidad de Costa Rica (2014–2023)</li>
+  </ul>
+</div>
 
 
+<div style="width: 320px; background-color: #fff0f5; border-radius: 10px; padding: 15px; margin: 30px auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1); font-family: sans-serif;">
+  <h3 style="margin-top: 0;">🗣️ Idiomas</h3>
+  <ul style="padding-left: 20px;">
+    <li>Español nativo</li>
+    <li>Inglés avanzado (B2)</li>
+  </ul>
+</div>
+
+<div style="width: 320px; background-color: #f5fff0; border-radius: 10px; padding: 15px; margin: 30px auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1); font-family: sans-serif;">
+  <h3 style="margin-top: 0;">📫 ¿Hablamos?</h3>
+  <p style="margin: 5px 0;">💌 <strong>Mail:</strong> <a href="mailto:pricam29@gmail.com">pricam29@gmail.com</a></p>
+  <p style="margin: 5px 0;">💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/priscila-campos-gonzalez" target="_blank">linkedin.com/in/priscila-campos-gonzalez</a></p>
+</div>
