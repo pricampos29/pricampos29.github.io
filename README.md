@@ -74,3 +74,4 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
 
 💼 LinkedIn: linkedin.com/in/priscila-campos-gonzalez
 
+
