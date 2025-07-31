@@ -18,6 +18,8 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
   <div style="background-color: #d8bfd8; border-radius: 10px; padding: 15px; width: 120px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">Plotly</div>
 </div>
 
+<hr>
+
 ## 📁Proyectos
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; font-family: sans-serif;">
 
@@ -53,18 +55,16 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
      <p><strong>Tecnología:</strong> Python, pandas, scipy, seaborn </p>
   </div>
 </div> 
+<hr>
 
 ## 📚 Educación
-
 - **Análisis de Datos** | TripleTen | 2024–2025  
 - **Licenciatura en Nutrición** | Universidad de Costa Rica | 2014–2023  
 
 ## 🗣️ Idiomas
-
 - Español nativo  
 - Inglés avanzado (B2)  
 
 ## 📫 ¿Hablamos?
-
 - 💌 **Mail:** [pricam29@gmail.com](mailto:pricam29@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/priscila-campos-gonzalez](https://linkedin.com/in/priscila-campos-gonzalez)
