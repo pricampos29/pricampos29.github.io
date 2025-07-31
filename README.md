@@ -55,15 +55,15 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
     <p><strong>Tecnología:</strong> Python, pandas, scipy, seaborn </p>
 </div>
 
-## 🌟Experiencia
-### Experiencia técnica | TripleTen | 2024-2025
--Análisis exploratorio, estadístico y predictivo con Python y SQL. 
-
--Modelado de embudos de conversión, visualización de KPIs y dashboards interactivos.
-
--Pruebas A/A/B y segmentación de usuarios con visualización accionable.
-
--Limpieza y transformación de bases de datos reales en entorno Jupyter.
+<div style="width: 320px; background-color: #fffaf0; border-radius: 10px; padding: 15px; margin: 30px auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1); font-family: sans-serif;">
+  <h3 style="margin-top: 0;">🌟 Experiencia técnica – TripleTen (2024–2025)</h3>
+  <ul style="padding-left: 20px;">
+    <li>Análisis exploratorio, estadístico y predictivo con Python y SQL</li>
+    <li>Modelado de embudos de conversión y visualización de KPIs</li>
+    <li>Dashboards interactivos y pruebas A/A/B</li>
+    <li>Limpieza y transformación de datos reales en Jupyter</li>
+  </ul>
+</div>
 
 ## 📚Educación
 -Análisis de Datos | TripleTen | 2024-2025
