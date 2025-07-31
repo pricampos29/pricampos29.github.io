@@ -64,6 +64,7 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
 
 -Licenciatura en Nutrición | Universidad de Costa Rica | 2014-2023
 
+
 ## 🗣️Idiomas
 -Español nativo
 
