@@ -30,6 +30,18 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
 
 -Tecnologías: SQL 
 
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; font-family: sans-serif;">
+
+  <div style="width: 320px; background-color: #f0f8ff; border-radius: 10px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">📚 Análisis del mercado editorial en tiempos de pandemia - SQL</h3>
+    <p><strong>Objetivo:</strong> Se exploró el comportamiento de los usuarios/as de una startup enfocada en libros, basada en una base de datos relacionada con información sobre obras, editoriales, autores/as, calificaciones y reseñas. El objetivo fue generar insights que aporten valor a una propuesta de producto digital post-pandemia.</p>
+    <p><strong>Conclusiones:</strong> hay un mercado activo en contenido moderno, los usuarios confían en la opiniones y reseñas con puntuaciones de la comunidad, la editorial Penguin Books domina el mercado de libros extensos y ciertos escritores pueden impulsar el éxito de un libro. </p>
+    <p><strong>Recomendaciones:</strong> publicar un nuevo producto enfocado en libros recientes y mejor calificados, incentivar la participación de la comunidad, y colaborar con editoriales reconocidas y autores exitosos.</p>
+    <p><strong>Tecnología:</strong> SQL</p>
+  </div>
+
 ### 📊Embudo de conversión y test A/A/B
 -Se analizó el comportamiento de usuarios/as en una aplicación de una empresa emergente que comercializa productos alimenticios. El objetivo fue estudiar el embudo de conversión, identificar puntos de fuga en el proceso de compra y evaluar un test A/A/B relacionado con un rediseño tipográfico de la interfaz. 
 
