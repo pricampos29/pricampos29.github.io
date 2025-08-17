@@ -20,10 +20,50 @@ Soy Licenciada en Nutrición, certificada en análisis de datos. Combino experie
 
 <hr>
 
+
+
+
+
+  <!-- Proyecto 2 -->
+  <div style="width: 320px; background-color: #f0f8ff; border-radius: 10px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 40px;">
+    <h3 style="margin-top: 0;">📚 📊Embudo de conversión y test A/A/B</h3>
+    <p><strong>Objetivo:</strong> Se analizó el comportamiento de usuarios/as en una aplicación...</p>
+    <img src="docs/assets/Prueba_AB.png" alt="Resultados de prueba A/B" style="width:100%; border-radius: 8px; margin: 12px 0;">
+    <p><strong>Conclusiones:</strong> el análisis del embudo mostró que la mayor pérdida de usuarios ocurrió...</p>
+    <p><strong>Recomendaciones:</strong> se recomendó a gerencia avanzar con el cambio en el diseño.</p>
+    <p><strong>Tecnología:</strong> Python, pandas, matplotlib, scipy</p>
+  </div>
+
+  <!-- Línea divisoria -->
+  <div style="width: 100%; border-top: 2px dashed #cce; margin-bottom: 40px;"></div>
+
+  <!-- Proyecto 3 -->
+  <div style="width: 320px; background-color: #f0f8ff; border-radius: 10px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 40px;">
+    <h3 style="margin-top: 0;">📞 Identificación de Operadores Ineficaces en Telecomunicaciones</h3>
+    <p><strong>Objetivo:</strong> Este análisis se enfocó en detectar operadores ineficaces...</p>
+    <img src="docs/assets/Telecomunicaciones.png" alt="Resultados telecomunicaciones" style="width:100%; border-radius: 8px; margin: 12px 0;">
+    <p><strong>Conclusiones:</strong> los operadores con más llamadas perdidas tuvieron tiempos de espera mayores...</p>
+    <p><strong>Recomendaciones:</strong> implementar medidas para reducir tiempos de espera...</p>
+    <p><strong>Tecnología:</strong> Python, pandas, scipy, seaborn</p>
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 ## 📁Proyectos
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; font-family: sans-serif;">
 
-  <div style="width: 320px; background-color: #f0f8ff; border-radius: 10px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <!-- Proyecto 1 -->
+  <div style="width: 320px; background-color: #f0f8ff; border-radius: 10px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 40px">
     <h3 style="margin-top: 0;">📚 Análisis del mercado editorial en tiempos de pandemia - SQL</h3>
     <p><strong>Objetivo:</strong> Se exploró el comportamiento de los usuarios/as de una startup enfocada en libros, basada en una base de datos relacionada con información sobre obras, editoriales, autores/as, calificaciones y reseñas. El objetivo fue generar insights que aporten valor a una propuesta de producto digital post-pandemia.</p>
     <p><strong>Conclusiones:</strong> hay un mercado activo en contenido moderno, los usuarios confían en la opiniones y reseñas con puntuaciones de la comunidad, la editorial Penguin Books domina el mercado de libros extensos y ciertos escritores pueden impulsar el éxito de un libro. </p>
@@ -32,7 +72,8 @@ Soy Licenciada en Nutrición, certificada en análisis de datos. Combino experie
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; font-family: sans-serif;">
+  <!-- Línea divisoria -->
+  <div style="width: 100%; border-top: 2px dashed #cce; margin-bottom: 40px;"></div>
 
   <div style="width: 320px; background-color: #f0f8ff; border-radius: 10px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     <h3 style="margin-top: 0;">📚 📊Embudo de conversión y test A/A/B </h3>
