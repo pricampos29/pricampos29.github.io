@@ -84,6 +84,7 @@ Soy Licenciada en Nutrición, certificada en análisis de datos. Combino experie
     </ul>
 
     <h3>📊 Resultados</h3>
+    <img src="docs/assets/prueba_ab.png" alt="Resultados de la prueba A/B" style="width:100%; border-radius:8px; margin:16px 0;">
     <table style="width:100%; border-collapse: collapse; margin-bottom: 15px;">
       <thead>
         <tr style="background-color: #e6f7ff;">
@@ -153,8 +154,11 @@ Soy Licenciada en Nutrición, certificada en análisis de datos. Combino experie
   <h3>📌 Hallazgos Clave</h3>
   <ul>
     <li><strong>Duración de llamadas:</strong> la mayoría dura menos de 20,000 segundos; la frecuencia disminuye con mayor duración.</li>
+    <img src="docs/assets/Telecomunicaciones.png" alt="Dashboard Telecomunicaciones" style="width:100%; border-radius: 8px; margin: 12px 0;">
     <li><strong>Distribución:</strong> 87.2% de llamadas son externas, 12.8% internas.</li>
+    <img src="docs/assets/proporcion_llamadas.png" alt="Proporción de llamadas atendidas vs perdidas" style="width:100%; border-radius:8px; margin:16px 0;">
     <li><strong>Operadores ineficaces:</strong> ID 891410 lidera en llamadas perdidas (~120), seguido por 885876 y 891414.</li>
+    <img src="docs/assets/Top_10_operadores.png" alt="Top 10 operadores con más llamadas perdidas" style="width:100%; border-radius: 8px; margin: 12px 0;">
   </ul>
 
   <h3>📊 Dashboard Interactivo</h3>
