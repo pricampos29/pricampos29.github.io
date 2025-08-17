@@ -62,6 +62,133 @@ Soy Licenciada en Nutrición, certificada en análisis de datos. Combino experie
 </div> 
 <hr>
 
+
+## 📁Proyectos
+<div style="display: flex; flex-direction: column; gap: 40px; align-items: center; font-family: sans-serif;">
+
+  <!-- Proyecto SQL -->
+  <div style="width: 100%; max-width: 720px; background-color: #fdfdfd; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <h2 style="margin-top: 0;">📚 Proyecto SQL – Análisis Editorial y Comportamiento de Lectores</h2>
+    <h3>🎯 Objetivo general</h3>
+    <p>Identificar tendencias en la publicación y recepción de libros para generar una propuesta de valor efectiva para un nuevo producto en el sector editorial.</p>
+
+    <h3>🎯 Objetivos específicos</h3>
+    <ul>
+      <li>Determinar la cantidad de libros recientes.</li>
+      <li>Analizar la popularidad de los libros según reseñas y calificación promedio.</li>
+      <li>Identificar la editorial con mayor volumen de publicaciones.</li>
+      <li>Determinar el autor mejor calificado.</li>
+      <li>Comprender el comportamiento de los usuarios más activos en la plataforma.</li>
+    </ul>
+
+    <h3>⚙️ Metodología</h3>
+    <ul>
+      <li>Base de datos con información sobre libros, editoriales, autores, reseñas y usuarios.</li>
+      <li>Consultas SQL para filtrar, agrupar y calcular métricas clave.</li>
+      <li>Segmentación de usuarios activos (más de 50 libros calificados).</li>
+    </ul>
+
+    <h3>📊 Resultados</h3>
+    <ul>
+      <li><strong>Libros recientes:</strong> 819 títulos publicados después del 1 de enero de 2000.</li>
+      <li><strong>Popularidad:</strong> libros con hasta 60 reseñas y calificaciones promedio entre 4.0 y 4.5.</li>
+      <li><strong>Editorial líder:</strong> Penguin Books con 42 títulos.</li>
+      <li><strong>Autor destacado:</strong> Diana Gabaldon con promedio de 4.3.</li>
+      <li><strong>Usuarios activos:</strong> promedio de 719.76 reseñas escritas.</li>
+    </ul>
+
+    <h3>🧾 Conclusiones</h3>
+    <ul>
+      <li>Oportunidad clara en libros recientes y modernos.</li>
+      <li>Las reseñas y calificaciones son indicadores confiables de calidad.</li>
+      <li>Penguin Books domina el mercado editorial.</li>
+      <li>Autores como Gabaldon pueden impulsar nuevos productos.</li>
+      <li>La comunidad lectora activa es clave para el engagement.</li>
+    </ul>
+
+    <h3>✅ Recomendaciones</h3>
+    <ol>
+      <li>Desarrollar productos que destaquen libros recientes y mejor calificados.</li>
+      <li>Incorporar reseñas como guía de calidad.</li>
+      <li>Establecer alianzas con editoriales reconocidas.</li>
+      <li>Promover obras de autores con alta reputación.</li>
+      <li>Incentivar la participación activa de la comunidad lectora.</li>
+    </ol>
+
+    <p><strong>Tecnología:</strong> SQL</p>
+  </div>
+
+  <!-- Proyecto A/A/B -->
+  <div style="width: 100%; max-width: 720px; background-color: #fdfdfd; border-radius: 12px; padding: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <h2 style="margin-top: 0;">🧪 Sprint 11 – Análisis de Comportamiento de Usuario y Test A/A/B</h2>
+    <p><em>Proyecto de análisis de datos para aplicación de productos alimenticios</em></p>
+
+    <h3>🎯 Objetivo</h3>
+    <ul>
+      <li>Analizar el embudo de conversión para identificar puntos críticos de abandono.</li>
+      <li>Evaluar el impacto de un cambio tipográfico mediante test A/A/B.</li>
+    </ul>
+
+    <h3>⚙️ Metodología</h3>
+    <ul>
+      <li>Depuración y transformación de datos del archivo <code>logs_exp_us.csv</code>.</li>
+      <li>Exclusión de registros inconsistentes y duplicados.</li>
+      <li>Construcción del embudo de conversión.</li>
+      <li>Pruebas estadísticas entre grupos experimentales (ExpId 246, 247, 248).</li>
+    </ul>
+
+    <h3>📊 Resultados</h3>
+    <p><strong>Embudo de conversión:</strong></p>
+    <table style="width:100%; border-collapse: collapse; margin-bottom: 15px;">
+      <thead>
+        <tr style="background-color: #e6f7ff;">
+          <th style="padding: 8px; border: 1px solid #ccc;">Evento</th>
+          <th style="padding: 8px; border: 1px solid #ccc;">Usuarios únicos</th>
+          <th style="padding: 8px; border: 1px solid #ccc;">Proporción</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ccc;">MainScreenAppear</td>
+          <td style="padding: 8px; border: 1px solid #ccc;">7,429</td>
+          <td style="padding: 8px; border: 1px solid #ccc;">98.5%</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ccc;">CartScreenAppear</td>
+          <td style="padding: 8px; border: 1px solid #ccc;">3,742</td>
+          <td style="padding: 8px; border: 1px solid #ccc;">49.6%</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px; border: 1px solid #ccc;">PaymentScreenSuccessful</td>
+          <td style="padding: 8px; border: 1px solid #ccc;">3,542</td>
+          <td style="padding: 8px; border: 1px solid #ccc;">46.9%</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p><strong>Test A/A/B:</strong> comportamiento uniforme entre grupos, sin evidencia de impacto negativo por el rediseño tipográfico.</p>
+
+    <h3>🧾 Conclusiones</h3>
+    <ul>
+      <li>La limpieza de datos mejoró la confiabilidad del análisis.</li>
+      <li>El principal punto de fuga está en la transición MainScreen → CartScreen.</li>
+      <li>El proceso de pago es altamente eficiente.</li>
+      <li>El rediseño tipográfico no afecta negativamente la experiencia del usuario.</li>
+    </ul>
+
+    <h3>✅ Recomendaciones</h3>
+    <ol>
+      <li>Optimizar la pantalla principal para mejorar la conversión.</li>
+      <li>Implementar el nuevo diseño tipográfico.</li>
+      <li>Aplicar correcciones por múltiples pruebas en futuros experimentos.</li>
+      <li>Continuar con pruebas iterativas centradas en retención y navegación.</li>
+    </ol>
+
+    <p><strong>Tecnología:</strong> Python, pandas, matplotlib, scipy</p>
+  </div>
+
+</div>
+
 ## 📫 ¿Hablamos?
 - 💌 **Mail:** [pricam29@gmail.com](mailto:pricam29@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/priscila-campos-gonzalez](https://linkedin.com/in/priscila-campos-gonzalez)
