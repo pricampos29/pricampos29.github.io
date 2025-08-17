@@ -1,8 +1,8 @@
 ## 🧠Sobre mí
 
-Soy Licenciada en Nutrición, certificada en análisis de datos para mejorar procesos y apoyar estrategias de campo en el sector salud. He realizado proyectos de análisis estadístico, segmentación de usuarios y embudos de conversión. 
+Soy Licenciada en Nutrición, certificada en análisis de datos. Combino experiencia en campo con herramientas estadísticas para mejorar procesos, entender el comportamiento de usuarios y apoyar decisiones estratégicas.
 
-Me entusiasma traducir información compleja en hallazgos claros y accionables. Busco oportunidades donde pueda integrar mis habilidades técnicas con mi experiencia en el sector salud para generar soluciones que impacten positivamente en las personas y los procesos.
+➡️ Explora mis proyectos y descubre cómo aplico Python, SQL y comunicación estratégica para generar impacto real.
 
 ## 🛠️ Tecnologías y herramientas 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; font-family: sans-serif;">
@@ -56,14 +56,6 @@ Me entusiasma traducir información compleja en hallazgos claros y accionables. 
   </div>
 </div> 
 <hr>
-
-## 📚 Educación
-- **Análisis de Datos** | TripleTen | 2024–2025  
-- **Licenciatura en Nutrición** | Universidad de Costa Rica | 2014–2023  
-
-## 🗣️ Idiomas
-- Español nativo  
-- Inglés avanzado (B2)  
 
 ## 📫 ¿Hablamos?
 - 💌 **Mail:** [pricam29@gmail.com](mailto:pricam29@gmail.com)  
