@@ -84,7 +84,7 @@ Soy Licenciada en Nutrición, certificada en análisis de datos. Combino experie
     </ul>
 
     <h3>📊 Resultados</h3>
-    ![Resultados de la prueba A/B](assets/prueba_ab.png
+    ![Resultados de la prueba A/B](assets/prueba_ab.png)
     <table style="width:100%; border-collapse: collapse; margin-bottom: 15px;">
       <thead>
         <tr style="background-color: #e6f7ff;">
