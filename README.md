@@ -84,7 +84,7 @@ Soy Licenciada en Nutrición, certificada en análisis de datos. Combino experie
     </ul>
 
     <h3>📊 Resultados</h3>
-    <img src="docs/assets/prueba_ab.png" alt="Resultados de la prueba A/B" style="width:100%; border-radius:8px; margin:16px 0;">
+    ![Resultados de la prueba A/B](docs/assets/prueba_ab.png
     <table style="width:100%; border-collapse: collapse; margin-bottom: 15px;">
       <thead>
         <tr style="background-color: #e6f7ff;">
@@ -154,12 +154,14 @@ Soy Licenciada en Nutrición, certificada en análisis de datos. Combino experie
   <h3>📌 Hallazgos Clave</h3>
   <ul>
     <li><strong>Duración de llamadas:</strong> la mayoría dura menos de 20,000 segundos; la frecuencia disminuye con mayor duración.</li>
-    <img src="docs/assets/Telecomunicaciones.png" alt="Dashboard Telecomunicaciones" style="width:100%; border-radius: 8px; margin: 12px 0;">
+    ![Dashboard Telecomunicaciones](docs/assets/Telecomunicaciones.png)
     <li><strong>Distribución:</strong> 87.2% de llamadas son externas, 12.8% internas.</li>
-    <img src="docs/assets/proporcion_llamadas.png" alt="Proporción de llamadas atendidas vs perdidas" style="width:100%; border-radius:8px; margin:16px 0;">
+    ![Proporción de llamadas atendidas vs perdidas](docs/assets/proporcion_llamadas.png)
     <li><strong>Operadores ineficaces:</strong> ID 891410 lidera en llamadas perdidas (~120), seguido por 885876 y 891414.</li>
-    <img src="docs/assets/Top_10_operadores.png" alt="Top 10 operadores con más llamadas perdidas" style="width:100%; border-radius: 8px; margin: 12px 0;">
+    ![Top 10 operadores con más llamadas perdidas](docs/assets/Top_10_operadores.png)
   </ul>
+
+
 
   <h3>📊 Dashboard Interactivo</h3>
   <p>Explorá el dashboard completo 👉 <a href="https://public.tableau.com/app/profile/priscila.campos.gonz.lez/viz/Book1_17457832031900/Dashboard2" target="_blank">Ver en Tableau</a></p>
@@ -187,6 +189,8 @@ Soy Licenciada en Nutrición, certificada en análisis de datos. Combino experie
   <p><strong>🔗 Repositorio:</strong> <a href="https://github.com/pricampos29/Telecomunicaciones-identificar-operadores-ineficaces" target="_blank">GitHub</a></p>
 </div>
 
+---
 ## 📫 ¿Hablamos?
-- 💌 **Mail:** [pricam29@gmail.com](mailto:pricam29@gmail.com)  
+- 💌 **Correo:** [pricam29@gmail.com](mailto:pricam29@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/priscila-campos-gonzalez](https://linkedin.com/in/priscila-campos-gonzalez)
+---
