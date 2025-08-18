@@ -188,7 +188,8 @@ Soy Licenciada en Nutrición, certificada en análisis de datos. Combino experie
   <p><strong>🔗 Repositorio:</strong> <a href="https://github.com/pricampos29/Telecomunicaciones-identificar-operadores-ineficaces" target="_blank">GitHub</a></p>
 </div>
 
-## 📫 ¿Hablamos?
-- 💌 **Correo:** [pricam29@gmail.com](mailto:pricam29@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/priscila-campos-gonzalez](https://linkedin.com/in/priscila-campos-gonzalez)
----
+<div style="text-align: center; font-family: sans-serif; margin-top: 30px;">
+  <h2>📫 ¿Hablamos?</h2>
+  <p>💌 <strong>Correo:</strong> <a href="mailto:pricam29@gmail.com">pricam29@gmail.com</a></p>
+  <p>💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/priscila-campos-gonzalez" target="_blank">linkedin.com/in/priscila-campos-gonzalez</a></p>
+</div>
