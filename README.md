@@ -84,7 +84,7 @@ Soy Licenciada en Nutrición, certificada en análisis de datos. Combino experie
     </ul>
 
     <h3>📊 Resultados</h3>
-    ![Resultados de la prueba A/B](docs/assets/prueba_ab.png
+    ![Resultados de la prueba A/B](assets/prueba_ab.png
     <table style="width:100%; border-collapse: collapse; margin-bottom: 15px;">
       <thead>
         <tr style="background-color: #e6f7ff;">
@@ -154,13 +154,12 @@ Soy Licenciada en Nutrición, certificada en análisis de datos. Combino experie
   <h3>📌 Hallazgos Clave</h3>
   <ul>
     <li><strong>Duración de llamadas:</strong> la mayoría dura menos de 20,000 segundos; la frecuencia disminuye con mayor duración.</li>
-    ![Dashboard Telecomunicaciones](docs/assets/Telecomunicaciones.png)
+    ![Dashboard Telecomunicaciones](assets/Telecomunicaciones.png)
     <li><strong>Distribución:</strong> 87.2% de llamadas son externas, 12.8% internas.</li>
-    ![Proporción de llamadas atendidas vs perdidas](docs/assets/proporcion_llamadas.png)
+    ![Proporción de llamadas atendidas vs perdidas](assets/proporcion_llamadas.png)
     <li><strong>Operadores ineficaces:</strong> ID 891410 lidera en llamadas perdidas (~120), seguido por 885876 y 891414.</li>
-    ![Top 10 operadores con más llamadas perdidas](docs/assets/Top_10_operadores.png)
+    ![Top 10 operadores con más llamadas perdidas](assets/Top_10_operadores.png)
   </ul>
-
 
 
   <h3>📊 Dashboard Interactivo</h3>
@@ -189,7 +188,6 @@ Soy Licenciada en Nutrición, certificada en análisis de datos. Combino experie
   <p><strong>🔗 Repositorio:</strong> <a href="https://github.com/pricampos29/Telecomunicaciones-identificar-operadores-ineficaces" target="_blank">GitHub</a></p>
 </div>
 
----
 ## 📫 ¿Hablamos?
 - 💌 **Correo:** [pricam29@gmail.com](mailto:pricam29@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/priscila-campos-gonzalez](https://linkedin.com/in/priscila-campos-gonzalez)
